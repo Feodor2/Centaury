@@ -1,1 +1,1 @@
-Centaury is the fork of Basilisk browser adapted for winxp. in the majority it build from the same uxp code and Mypal patches. Also i have made my own appearance and keep webextensions feature available.
+Centaury is the fork of ~~Basilisk browser~~ (not anymore) adapted for winxp. in the majority it build from the same ~~uxp code and Mypal patches~~. Also i have made my own appearance and keep webextensions feature available.
